@@ -1,12 +1,12 @@
 {
-  "name": "jurosh/pdf-merge",
+  "name": "byggmann/php-pdf-merge",
   "description": "PHP PDF Merger",
   "version": "2.1.0",
   "keywords": [
     "pdf",
     "merge"
   ],
-  "homepage": "https://github.com/jurosh/php-pdf-merge",
+  "homepage": "https://github.com/byggmann/php-pdf-merge",
   "license": "MIT",
   "require": {
     "php": ">=5.6.20",
